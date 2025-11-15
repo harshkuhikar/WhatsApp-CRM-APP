@@ -1,0 +1,38 @@
+================================================================================
+🎫 YOUR TEST LICENSE KEY - COPY AND PASTE THIS IN THE ACTIVATION SCREEN
+================================================================================
+
+OPTION 1 - Human-Readable Key (Short):
+LFT-8C4D-505B-DB4A-88FB
+
+OPTION 2 - JWT Token (Full - Recommended):
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJsaWNlbnNlX2lkIjoiNTQ2ZjA0MzEtMjg5Mi00YWEzLTlmNDUtMzgyMzZiNTQ5OWY4Iiwib3duZXJfZW1haWwiOiJ0ZXN0QGV4YW1wbGUuY29tIiwicGxhbiI6InByZW1pdW0iLCJpc3N1ZWRfYXQiOiIyMDI1LTExLTE0VDA4OjQwOjUyLjk3MTU2OSIsImV4cGlyZXNfYXQiOiIyMDI2LTExLTE0VDA4OjQwOjUyLjk3MTU2OSIsIm1heF9kZXZpY2VzIjozLCJ0eXBlIjoibGljZW5zZSJ9.VQyc9lvEIV6jNhZkMfc_yrXQbm_jopWwVBcc50eP-RM
+
+================================================================================
+📋 LICENSE DETAILS
+================================================================================
+Owner: test@example.com
+Plan: Premium
+Valid Until: November 14, 2026 (1 year)
+Max Devices: 3 devices
+Status: Active
+
+================================================================================
+📝 HOW TO USE
+================================================================================
+1. In the Activation screen, paste the JWT token (Option 2) above
+2. Click "Activate License"
+3. The app will bind to your device and grant you full access
+4. You can now use all features!
+
+================================================================================
+✅ FULL ACCESS GRANTED
+================================================================================
+With this license you can:
+✓ Create unlimited campaigns
+✓ Import unlimited contacts
+✓ Send messages (when WhatsApp is configured)
+✓ Access all premium features
+✓ Use on up to 3 devices
+
+================================================================================

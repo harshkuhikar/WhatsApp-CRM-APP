@@ -1,0 +1,22 @@
+{
+  "name": "mywasender-sending-worker",
+  "version": "1.0.0",
+  "description": "WhatsApp sending worker using Playwright",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js",
+    "start": "node src/index.js",
+    "install-browsers": "playwright install chromium"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "playwright": "^1.40.1",
+    "redis": "^4.6.11",
+    "axios": "^1.6.2",
+    "dotenv": "^16.3.1",
+    "winston": "^3.11.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
