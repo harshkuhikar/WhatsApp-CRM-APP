@@ -14,11 +14,11 @@ Professional WhatsApp bulk messaging desktop application with advanced template 
 
 ## 📥 Download
 
-[![Download for Windows](https://img.shields.io/badge/Download-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/YOUR_USERNAME/MyWASender/releases/latest)
-[![Download for macOS](https://img.shields.io/badge/Download-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/YOUR_USERNAME/MyWASender/releases/latest)
-[![Download for Linux](https://img.shields.io/badge/Download-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/YOUR_USERNAME/MyWASender/releases/latest)
+[![Download for Windows](https://img.shields.io/badge/Download-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/harshkuhikar/WhatsApp-CRM-APP/releases/latest)
+[![Download for macOS](https://img.shields.io/badge/Download-macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/harshkuhikar/WhatsApp-CRM-APP/releases/latest)
+[![Download for Linux](https://img.shields.io/badge/Download-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://github.com/harshkuhikar/WhatsApp-CRM-APP/releases/latest)
 
-**Or try the web version:** [Launch Web App](https://YOUR_USERNAME.github.io/MyWASender/)
+**Or try the web version:** [Launch Web App](https://harshkuhikar.github.io/WhatsApp-CRM-APP/)
 
 ---
 
@@ -197,8 +197,8 @@ This is a proprietary project. For collaboration inquiries, please contact the o
 ## 📞 Support
 
 - 📧 Email: your@email.com
-- 🐛 Issues: [GitHub Issues](https://github.com/YOUR_USERNAME/MyWASender/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/YOUR_USERNAME/MyWASender/discussions)
+- 🐛 Issues: [GitHub Issues](https://github.com/harshkuhikar/WhatsApp-CRM-APP/issues)
+- 💬 Discussions: [GitHub Discussions](https://github.com/harshkuhikar/WhatsApp-CRM-APP/discussions)
 
 ## 📄 License
 
@@ -210,8 +210,8 @@ Proprietary - All rights reserved
 
 If you find this project useful, please consider giving it a star!
 
-[![Star History Chart](https://api.star-history.com/svg?repos=YOUR_USERNAME/MyWASender&type=Date)](https://star-history.com/#YOUR_USERNAME/MyWASender&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=harshkuhikar/WhatsApp-CRM-APP&type=Date)](https://star-history.com/#harshkuhikar/WhatsApp-CRM-APP&Date)
 
 ---
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by [Harsh Kuhikar](https://github.com/harshkuhikar)**
