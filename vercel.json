@@ -1,0 +1,13 @@
+{
+  "buildCommand": "cd desktop && npm install && npm run build",
+  "outputDirectory": "desktop/dist",
+  "devCommand": "cd desktop && npm run dev",
+  "installCommand": "cd desktop && npm install",
+  "framework": null,
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}

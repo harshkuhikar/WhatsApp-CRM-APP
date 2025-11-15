@@ -1,0 +1,17 @@
+{
+  "name": "whatsapp-crm-app",
+  "version": "1.0.0",
+  "description": "Professional WhatsApp CRM Application",
+  "scripts": {
+    "build": "cd desktop && npm install && npm run build",
+    "dev": "cd desktop && npm run dev"
+  },
+  "keywords": [
+    "whatsapp",
+    "crm",
+    "react",
+    "electron"
+  ],
+  "author": "Harsh Kuhikar",
+  "license": "Proprietary"
+}
