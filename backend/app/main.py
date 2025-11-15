@@ -3,7 +3,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import JSONResponse
 from app.config import settings
 from app.database import engine, Base
-from app.routers import auth, licenses, campaigns, payments, admin, health
+from app.routers import auth, licenses, campaigns, payments, admin, health, whatsapp
 import time
 
 # Initialize Sentry (optional)
@@ -63,6 +63,7 @@ app.include_router(licenses.router, prefix="/api/v1/licenses", tags=["Licenses"]
 app.include_router(campaigns.router, prefix="/api/v1/campaigns", tags=["Campaigns"])
 app.include_router(payments.router, prefix="/api/v1/payments", tags=["Payments"])
 app.include_router(admin.router, prefix="/api/v1/admin", tags=["Admin"])
+app.include_router(whatsapp.router, prefix="/api/v1/whatsapp", tags=["WhatsApp"])
 
 @app.get("/")
 async def root():

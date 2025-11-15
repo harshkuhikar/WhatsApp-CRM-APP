@@ -35,6 +35,12 @@ class Settings(BaseSettings):
     # Sending Worker
     SENDING_WORKER_URL: str = "http://localhost:3001"
     
+    # WhatsApp Business API
+    WHATSAPP_API_VERSION: str = "v18.0"
+    WHATSAPP_PHONE_NUMBER_ID: str = ""
+    WHATSAPP_ACCESS_TOKEN: str = ""
+    WHATSAPP_VERIFY_TOKEN: str = ""  # For webhook verification
+    
     # Security
     CORS_ORIGINS: str = "http://localhost:3000,http://localhost:5173"
     RATE_LIMIT_PER_MINUTE: int = 60
